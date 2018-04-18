@@ -6,7 +6,7 @@ package com.example;
 public class Greeter {
 
   /**
-   * This is a constructor. There is a Newline problem I'm having.  How do I get rid of it?
+   * This is a constructor.
    */
   public Greeter() {
 
